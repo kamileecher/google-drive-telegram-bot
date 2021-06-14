@@ -38,7 +38,7 @@ class Messages:
         "**Rules & Precautions**\n__1. Don't copy BIG Google Drive Files/Folders. It may hang the bot and your files maybe damaged.\n2. Send One request at a time unless bot will stop all processes.\n3. Don't send slow links @transload it first.\n4. Don't misuse, overload or abuse this free service.__",
         
         # Dont remove this ↓ if you respect developer.
-        "**Developed by @viperadnan**"
+        "**thanks for @viperadnan**"
         ]
      
     RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **හානවද යකෝ ඔච්චර 😬.**\n__ටිකකින් වරෙන්😬.__"
@@ -55,11 +55,11 @@ class Messages:
     
     UPLOADED_SUCCESSFULLY = "✅ **බඩු අප්ලෝඩ් වුනා එහෙනම් කොල්ලෝ අපි ගියා🙋.**\n[{}]({}) __({})__"
     
-    DOWNLOAD_ERROR = "❗**Failed පම්කක් 😐 ආයේ දාහන්**\n{}\n__Link - {}__"
+    DOWNLOAD_ERROR = "❗**Failed පම්කක් 😐 ලින්ක් ආයේ හරියට දාහන්! expire,private ඔය ලින්ක් දාන්න එපා වැඩ නෑ 😐  **\n{}\n__Link - {}__"
     
     DOWNLOADING = "📥 **බඩු ඩවුන් වෙනෝ😁...\nLink:** ```{}```"
     
-    ALREADY_AUTH = "🔒 **මෙයා මේ පම්ක්ක ඔබලා😂 Gdrive එකට කනෙක්ට් වෙලා ඉන්නේ.**\n__Use /revoke Gdrive එකෙන්  මං අයින් කරන්න.__\n__ලින්ක්/telegram file දාම්පන් 📤  Google Drive අප්ලෝඩ් කරන්න__"
+    ALREADY_AUTH = "🔒 **මෙයා මේ පම්ක්ක ඔබලා😂 Gdrive එකට කනෙක්ට් වෙලා ඉන්නේ.**\n__Use /revoke Gdrive එකෙන්  මං අයින් කරන්න.__\n__ලින්ක්,telegram file දාම්පන් 📤  Google Drive අප්ලෝඩ් කරන්න__"
     
     FLOW_IS_NONE = f"❗ **Invalid Code පම්කක්**\n__Run {BotCommands.Authorize[0]} first.__"
     
