@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "1759044800:AAE0yzWvTG9cWF25jCnIgamgY60h38uxIVI"
-    APP_ID = "3026221"
-    API_HASH = "0c210b8cce3360dd1a47eda938643845"
-    DATABASE_URL = "postgres://pncnycrknktwaf:3f9a611aa85331c9d8742ccb136c2e9d1dfd29af31855ad5faca06ca2d140f8f@ec2-107-22-245-82.compute-1.amazonaws.com:5432/d866rvhal0e2i3"
-    SUDO_USERS = "1218663244" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/Mizsuki"
+    BOT_TOKEN = "fumk"
+    APP_ID = "fumk"
+    API_HASH = "fumk"
+    DATABASE_URL = "fumk"
+    SUDO_USERS = "fumk" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/fumk"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "96046064335-k5n84rm4nnvl968kkb1c4fm49n05hsdd.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "sJLLmcHF-cAFwfBTd3Ltri4w"
+    G_DRIVE_CLIENT_ID = "9fumk"
+    G_DRIVE_CLIENT_SECRET = "sfumk"
 
 
 class BotCommands:
